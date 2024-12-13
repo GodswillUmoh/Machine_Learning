@@ -12,8 +12,8 @@ ___
 
 ## How do you apply feature scaling
 ### The common method of feature scaling are 
-- Normalization and
-- standardization.
+- #### Normalization and
+- #### standardization.
 for Normalization, you subtract the minimum value from all other values divided by the range where as the standardization case subtract the mean value from all other values divided by standard deviation.
 
 - X' = X - Xmin /Xmax - Xmin
