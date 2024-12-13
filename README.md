@@ -1,6 +1,10 @@
 # Machine_Learning
 ## Documenting Machine Learning Concepts
-Feature scaling is defined by ScienceDirect as the process of transforming the values of independent variables so that they have common characteristics, such as being within a certain range of values, having an average value of 0, and the same standard deviation.
+> Feature scaling is defined by ScienceDirect as the process of transforming the values of independent variables so that they have common characteristics, such as being within a certain range of values, having an average value of 0, and the same standard deviation.
+
+~~~python
+print("Welcome to Machine Learning Documentation by Godswill Umoh"
+~~~
 
 ## Where do you apply feature scaling?
 ### Answer: Feature scaling is always applied in the columns but never across columns.
@@ -21,3 +25,5 @@ _for <ins>Normalization</ins>, you subtract the minimum value from all other val
 
 - X' = X -mean / SD
 - #### All of the values in the column will be between -+3 & 1  [-3, +3]
+
+![scaling.png}(https://ibb.co/QFNbVNn)
