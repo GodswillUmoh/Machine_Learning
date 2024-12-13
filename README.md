@@ -60,9 +60,9 @@ Other times, you may __Remove Outliers:__ for these reasons:
 
 | Names |	Salary |	Age |
 |-------|--------|------|
-| Godswill Umoh | 1 | 45 yrs |
-| Victoria Okpi | 0.444 | 44 yrs |
-| Esther Johnson | 0 | 40 yrs |
+| Godswill Umoh | 1 | 1|
+| Victoria Okpi | 0.444 | 0.8 |
+| Esther Johnson | 0 | 0 |
 
 
 
