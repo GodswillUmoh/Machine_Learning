@@ -55,6 +55,14 @@ Other times, you may __Remove Outliers:__ for these reasons:
 | Victoria Okpi | $ 70,000 | 44 yrs |
 | Esther Johnson |$ 62,000 | 40 yrs |
 
++ In this table our task will be to find out which names are closer to each other using feature scaling, specifically, __Normalization__
++ Using the formula: _X' = X - Xmin /Xmax - Xmin_
+
+| Names |	Salary |	Age |
+|-------|--------|------|
+| Godswill Umoh | 1 | 45 yrs |
+| Victoria Okpi | 0.444 | 44 yrs |
+| Esther Johnson | 0 | 40 yrs |
 
 
 
