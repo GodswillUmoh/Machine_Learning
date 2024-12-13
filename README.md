@@ -26,4 +26,5 @@ _for <ins>Normalization</ins>, you subtract the minimum value from all other val
 - X' = X -mean / SD
 - #### All of the values in the column will be between -+3 & 1  [-3, +3]
 
-![scaling.png}(https://ibb.co/QFNbVNn)
+#### Formula for Normalization and standarddization:(https://ibb.co/QFNbVNn)
+![scaling](https://github.com/user-attachments/assets/181c4d58-52a5-4656-9e59-e106434920ae)
