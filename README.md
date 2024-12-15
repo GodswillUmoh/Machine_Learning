@@ -55,6 +55,8 @@ Other times, you may __Remove Outliers:__ for these reasons:
 | Victoria Okpi | $ 70,000 | 44 yrs |
 | Esther Johnson |$ 62,000 | 40 yrs |
 
+### The Task: Here, we want to see which names are more similar to be grouped together based on the attributes. Are we going to group Godswill and Victoria or Victoria and Esther? This is where feature scaling helps out. 
+
 + In this table our task will be to find out which names are closer to each other using feature scaling, specifically, __Normalization__
 + Using the formula: _X' = X - Xmin /Xmax - Xmin_
 
@@ -63,6 +65,8 @@ Other times, you may __Remove Outliers:__ for these reasons:
 | Godswill Umoh | 1 | 1|
 | Victoria Okpi | 0.444 | 0.8 |
 | Esther Johnson | 0 | 0 |
+
+### Result: from the result, we see that Godswill and Victoria in terms of the normalization values are closer, hence, they are best grouped together (for salary(1, 0.4), and for Age(1, 0.8), this makes it closer. 
 
 
 
