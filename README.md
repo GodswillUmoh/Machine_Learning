@@ -1,4 +1,4 @@
-# Machine_Learning
+# Machine_Learning_Feature_Scaling
 
 ## Documenting Machine Learning Concepts
 > Feature scaling is defined by ScienceDirect as the process of transforming the values of independent variables so that they have common characteristics, such as being within a certain range of values, having an average value of 0, and the same standard deviation.
