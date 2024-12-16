@@ -19,7 +19,7 @@ ___
 ### The common method of feature scaling are 
 - #### Normalization and
 - #### standardization.
-_for <ins>Normalization</ins>, you subtract the minimum value from all other values divided by the range where as the <ins>standardization</ins> case subtract the mean value from all other values divided by standard deviation._
+_for <ins>Normalization</ins>, you subtract the minimum value from all other values divided by the range whereas in the <ins>standardization</ins> case, one subtracts the mean value from all other values divided by standard deviation._
 
 - X' = X - Xmin /Xmax - Xmin
 - #### All of the values in the column will be between 0 & 1 [0, 1]
