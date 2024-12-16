@@ -32,7 +32,7 @@ _for <ins>Normalization</ins>, you subtract the minimum value from all other val
 
 ## Dealing With Outliers
 _Outliers or extreme values outside the range of the numbers got from the scaling will be outside the range:_
-Express Analytics define outlier as a data point that is noticeably different from the rest. They represent errors in measurement, bad data collection, or simply show variables not considered when collecting the data.
+> Express Analytics define outlier as a data point that is noticeably different from the rest. They represent errors in measurement, bad data collection, or simply show variables not considered when collecting the data.
 
 _. It can be either much higher or much lower than the other data points, and its presence can have a significant impact on the results of machine learning algorithms. They can be caused by measurement or execution errors._
 
