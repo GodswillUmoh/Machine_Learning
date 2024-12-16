@@ -7,8 +7,6 @@
 print("Welcome to Machine Learning Documentation by Godswill Umoh"
 ~~~
 
-#gh-dark-mode-only
-
 ## Where do you apply feature scaling?
 ### Answer: Feature scaling is always applied in the columns but never across columns.
 ___table
