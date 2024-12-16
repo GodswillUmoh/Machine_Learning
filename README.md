@@ -28,7 +28,7 @@ _for <ins>Normalization</ins>, you subtract the minimum value from all other val
 - #### All of the values in the column will be between -3 & +3  [-3, +3]
 
 #### Formula for Normalization and standarddization: [view Formula Here](https://ibb.co/QFNbVNn)
-![scaling](https://github.com/user-attachments/assets/181c4d58-52a5-4656-9e59-e106434920ae)
+
 
 ## Dealing With Outliers
 _Outliers or extreme values outside the range of the numbers got from the scaling will be outside the range:_
